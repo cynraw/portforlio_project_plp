@@ -18,5 +18,6 @@
 - Tools: VS Code
 
 ## Deployment
-- 
+- I deployed the portfolio project using GitHub Pages, a free service for hosting static websites directly from a GitHub repository.
+- Here's a link to access my live project: https://cynraw.github.io/portforlio_project_plp/
 
